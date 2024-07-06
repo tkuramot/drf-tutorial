@@ -1,0 +1,9 @@
+/*
+/.*
+
+!/.gitignore
+!/requirements.txt
+!/tutorial/
+!/tutorial/**
+*.sqlite3
+__pycache__/
